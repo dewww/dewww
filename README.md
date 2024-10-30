@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**dewww/dewww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Data Security Ideas
 - 🌱 I’m currently learning ..Tokenization
 - 👯 I’m looking to collaborate on Open Source Data Security Testing
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: dewww@mac.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Founder of Mountain Magic Software a long time ago in a place far far away.
--->
